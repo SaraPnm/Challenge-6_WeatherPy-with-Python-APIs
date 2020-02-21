@@ -24,12 +24,17 @@ Part 2: Have Customers Narrow Their Travel Searches Based on Temperature and Pre
 please run [Vacation_Search.ipynb](Vacation_Search.ipynb), and check the figures below for two different scenarios:
 
 [WeatherPy_vacation_map_A.png](weather_data/WeatherPy_vacation_map_A.PNG)
+
 [WeatherPy_vacation_map_A1.png](weather_data/WeatherPy_vacation_map_A1.PNG)
-[WeatherPy_vacation_map_B.png](weather_data/WeatherPy_vacation_map_B.png)    
-[WeatherPy_vacation_map_B1.png](weather_data/WeatherPy_vacation_map_B1.png)    
+
+[WeatherPy_vacation_map_B.png](weather_data/WeatherPy_vacation_map_B.PNG)   
+
+[WeatherPy_vacation_map_B1.png](weather_data/WeatherPy_vacation_map_B1.PNG)    
+
        
 Part 3: Create a Travel Itinerary with a Corresponding Map.
 please run [Vacation_Itinerary.ipynb](Vacation_Itinerary.ipynb), and check the figures below for two different scenarios:  
 
-[WeatherPy_travel_map_A.png](weather_data/WeatherPy_travel_map_A.png) 
-[WeatherPy_travel_map_B.png](weather_data/WeatherPy_travel_map_B.png) 
+[WeatherPy_travel_map_A.png](weather_data/WeatherPy_travel_map_A.PNG) 
+
+[WeatherPy_travel_map_B.png](weather_data/WeatherPy_travel_map_B.PNG) 
