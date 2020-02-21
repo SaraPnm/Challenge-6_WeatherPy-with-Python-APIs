@@ -26,7 +26,7 @@ Part 2: Have Customers Narrow Their Travel Searches Based on Temperature and Pre
 Part 3: Create a Travel Itinerary with a Corresponding Map.
        please run [Vacation_Itinerary.ipynb](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/Vacation_Itinerary.ipynb), and check the figures below for two different scenarios:
        
-[WeatherPy_travel_map_A.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_A.png)    
+[WeatherPy_travel_map_A.png](weather_data/WeatherPy_travel_map_A.PNG)    
 
 [WeatherPy_travel_map_A1.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_A1.png)   
 
