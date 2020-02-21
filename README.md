@@ -18,22 +18,22 @@ The goals of this challenge are to:
 
 # Summary
 Part 1: Get the Weather Description and Amount of Precipitation for Each City, and answer to: How many cities have recorded rainfall or snow?
-       please run [Weather_Database.ipynb](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/Weather_Database.ipynb), and check [WeatherPy_challenge.csv](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_challenge.csv)
+       please run [Weather_Database.ipynb](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/Weather_Database.ipynb), and check [WeatherPy_challenge.csv](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_challenge.csv)
 
 Part 2: Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation.
-       please run [Vacation_Search.ipynb](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/Vacation_Search.ipynb), and check [WeatherPy_challenge.csv](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_vacation.csv) and [WeatherPy_vacation_map.png](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_vacation_map.png)
+       please run [Vacation_Search.ipynb](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/Vacation_Search.ipynb), and check [WeatherPy_challenge.csv](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_vacation.csv) and [WeatherPy_vacation_map.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_vacation_map.png)
        
 Part 3: Create a Travel Itinerary with a Corresponding Map.
-       please run [Vacation_Itinerary.ipynb](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/Vacation_Itinerary.ipynb), and check the figures below for two different scenarios:
+       please run [Vacation_Itinerary.ipynb](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/Vacation_Itinerary.ipynb), and check the figures below for two different scenarios:
        
-[WeatherPy_travel_map_A.png](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_A.png)    
+[WeatherPy_travel_map_A.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_A.png)    
 
-[WeatherPy_travel_map_A1.png](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_A1.png)   
+[WeatherPy_travel_map_A1.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_A1.png)   
 
-[WeatherPy_travel_map_B.png](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_B.png)    
+[WeatherPy_travel_map_B.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_B.png)    
 
-[WeatherPy_travel_map_B1.png](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_B1.png)       
+[WeatherPy_travel_map_B1.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_B1.png)       
 
-[WeatherPy_travel_map_markers_A.png](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_markers_A.png) 
+[WeatherPy_travel_map_markers_A.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_markers_A.png) 
 
-[WeatherPy_travel_map_markers_B.png](https://github.com/SaraPnm/SaraPnm-Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_markers_B.png) 
+[WeatherPy_travel_map_markers_B.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_travel_map_markers_B.png) 
