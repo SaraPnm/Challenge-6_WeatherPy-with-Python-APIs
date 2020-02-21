@@ -21,7 +21,7 @@ Part 1: Get the Weather Description and Amount of Precipitation for Each City, a
        please run [Weather_Database.ipynb](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/Weather_Database.ipynb), and check [WeatherPy_challenge.csv](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_challenge.csv)
 
 Part 2: Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation.
-       please run [Vacation_Search.ipynb](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/Vacation_Search.ipynb), and check [WeatherPy_challenge.csv](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_vacation.csv) and [WeatherPy_vacation_map.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_vacation_map.png)
+       please run [Vacation_Search.ipynb](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/Vacation_Search.ipynb), and check [WeatherPy_challenge.csv](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/weather_data/WeatherPy_vacation.csv) and [WeatherPy_vacation_map.png](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/weather_data/WeatherPy_vacation_map.png)
        
 Part 3: Create a Travel Itinerary with a Corresponding Map.
        please run [Vacation_Itinerary.ipynb](https://github.com/SaraPnm/Challenge-6_WeatherPy-with-Python-APIs/blob/master/Vacation_Itinerary.ipynb), and check the figures below for two different scenarios:
